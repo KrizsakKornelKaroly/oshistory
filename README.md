@@ -1,1 +1,1 @@
-# oshistory
+# Prezentáció a Windows/macOS rendszerekről
