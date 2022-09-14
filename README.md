@@ -1,1 +1,1 @@
-# Prezentáció a Windows/macOS rendszerekről
+# Prezentáció a macOS rendszerekről
